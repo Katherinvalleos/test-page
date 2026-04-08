@@ -5,7 +5,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <p>Test</p>
+          <p>Hej</p>
         </div>
       </section>
 
